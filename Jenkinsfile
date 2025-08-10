@@ -1,3 +1,3 @@
-@Library('my-shared-library@main') _
+@Library('build-jenkins@main') _
 
 test.runpipeline()
